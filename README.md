@@ -44,3 +44,8 @@ Floodfill algorithm simulation in Python using terminal or matplotlib visualisat
 8    7    8    9    10   11   12   13   14   15
 9    8    9    10   11   12   13   14   15   16
 ```
+
+## Example with matplotlib
+<div align="center">
+<img src="img/floodfill_plot.png" alt="Floodfill algorithm matplotlib visualisation image" width="600">
+</div>
