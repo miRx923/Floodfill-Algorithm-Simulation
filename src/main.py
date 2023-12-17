@@ -16,3 +16,6 @@ if __name__ == "__main__":
     shortest_path_field = sp.find_shortest_path(field, 1, 1, 7, 7)
     # Printing the field with the path visualized
     fu.print_field_in_terminal(shortest_path_field)
+    
+    # Printing the field with the path visualised using plot
+    fu.print_field_using_plot(shortest_path_field)
