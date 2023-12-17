@@ -1,5 +1,9 @@
 """ File containing field utilities to work with field """
 
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.colors import ListedColormap
+
 
 def initialise_field(x_field_size, y_field_size, start_x, start_y, end_x, end_y):
     """ Function for initialising blank field """
