@@ -1,4 +1,4 @@
-""" File for Floodfill algorithm in Python using terminal visualisation """
+""" File for Floodfill algorithm in Python using terminal or matplotlib visualisation """
 
 import field_utils as fu
 
